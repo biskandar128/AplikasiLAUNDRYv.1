@@ -1,8 +1,7 @@
 ###################
-Aplikasi Laundry version 1.0 CodeIgniter3
+Aplikasi Laundry version 1.0 CodeIgniter3 (Open source)
 ###################
 
-Open source. 
 Admin :
 username : nmilenia58
 password : admin
