@@ -1,5 +1,5 @@
 ###################
-What is CodeIgniter
+Aplikasi Laundry version 1.0 CodeIgniter3
 ###################
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
